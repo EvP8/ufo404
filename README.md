@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at:https://evp8.github.io/ufo404/ 
 
-Design: [Ufo404](https://dribbble.com/shots/2815937-404-page)
+Design: [Ufo404](https://www.pinterest.com/pin/464293042846052704/)
 
 ## 🎯 Project features/goals
 
